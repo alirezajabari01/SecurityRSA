@@ -1,0 +1,17 @@
+E:\else\SecurityRsa\bin\Debug\net8.0\SecurityRsa.exe
+E:\else\SecurityRsa\bin\Debug\net8.0\SecurityRsa.deps.json
+E:\else\SecurityRsa\bin\Debug\net8.0\SecurityRsa.runtimeconfig.json
+E:\else\SecurityRsa\bin\Debug\net8.0\SecurityRsa.dll
+E:\else\SecurityRsa\bin\Debug\net8.0\SecurityRsa.pdb
+E:\else\SecurityRsa\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.csproj.AssemblyReference.cache
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.GeneratedMSBuildEditorConfig.editorconfig
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.AssemblyInfoInputs.cache
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.AssemblyInfo.cs
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.csproj.CoreCompileInputs.cache
+E:\else\SecurityRsa\obj\Debug\net8.0\Security.89D62E07.Up2Date
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.dll
+E:\else\SecurityRsa\obj\Debug\net8.0\refint\SecurityRsa.dll
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.pdb
+E:\else\SecurityRsa\obj\Debug\net8.0\SecurityRsa.genruntimeconfig.cache
+E:\else\SecurityRsa\obj\Debug\net8.0\ref\SecurityRsa.dll

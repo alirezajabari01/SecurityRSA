@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJYcKFEYCijx2bF8IBMcuhtlxuD0wpCyhVA8dnhWNhnFTdaV52JweNuOb5JoZCDww5tzwH/00IQn/IvD9pnDaQ==",
+  "success": true,
+  "projectFilePath": "E:\\else\\SecurityRsa\\SecurityRsa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TORANJ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
